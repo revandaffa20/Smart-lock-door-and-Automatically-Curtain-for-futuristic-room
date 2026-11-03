@@ -115,8 +115,3 @@ Install them via **Arduino IDE → Sketch → Include Library → Manage Librari
 6. Sasmoko, D. *Arduino dan Sensor Pada Project Arduino DIY*.
 7. [Universitas Muhammadiyah Yogyakarta. Fingerprint Sensor Module with Arduino (FPM10A)](https://repository.umy.ac.id/bitstream/handle/123456789/22709/FPM10A.pdf?sequence=13&isAllowed=y)
 
-## Institution
-
-Interface Laboratory, Department of Physics
-Faculty of Mathematics and Natural Sciences
-Universitas Indonesia, 2024
